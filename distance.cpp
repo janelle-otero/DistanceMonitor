@@ -3,14 +3,6 @@
 #include <iomanip>
 using namespace std;
 
-/* Name: Janelle Otero
-Date: 9/30/19
-Section: 10
-Assignment: Homework #3
-Due Date: 10/4/19
-About this project: With this project I will be able to calculate the distance for meters, centimeters, and millimeters in millimeters. After converting those numbers to mm I will showcase the difference.
-All work below was performed by Janelle Otero */
-
 // function with no parameters or values to greet user
 void WelcomeUser(){
     printf("Welcome to the Converter! \nEnter two distances and they'll be converted to millimeters (mm).\n");
